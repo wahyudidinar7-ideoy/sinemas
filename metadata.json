@@ -1,0 +1,6 @@
+{
+  "name": "Aplikasi Manajemen Masjid - Jogokariyan Style",
+  "description": "Sistem Informasi & Manajemen Masjid Modern ala Masjid Jogokariyan. Transparansi Kas Saldo 0, Jadwal Sholat, Kajian Rutin, Infaq Online QRIS, Data Jamaah, dan Pengumuman.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
